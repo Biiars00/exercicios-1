@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estruturas de Repeticao/Estruturas de Repeticao.iml" filepath="$PROJECT_DIR$/Estruturas de Repeticao/Estruturas de Repeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios.iml" />
+    </modules>
+  </component>
+</project>
